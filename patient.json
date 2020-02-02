@@ -1,0 +1,16 @@
+{
+    "patientid": "AAAAAAAAA",
+    "mrn": "AAAAAAAAA",
+    "pvm": "E43",
+    "poa": true,
+    "secondary": true,
+    "changedrgfrom": 699,
+    "changedrgto": 698,
+    "changerwfrom": 1.0327,
+    "changerwto": 1.6186,
+    "dosfrom": "11/1",
+    "dosto": "11/20",
+    "body": "88 yo M, with Hx of CHF, HLD, HTN, AFib, COPD, BPH, hypothyroidism and abdominal pain; dehydration; CT A/P noted: colitis, on ceftriaxone and flagyl for stercoral colitis. PN 3/24 and 3/25 on Physical exam shows cachexia. Nutritionist consult and follow up confirm patient AAAAAAAAA unintentional weight loss (see below)\n(…) “Unintentional weight loss: yes; ~50lbs over the last few months (since his hip fracture/ hospitalization); Pt reports UBW ~185lbs.\nvery poor (less than 25%); 25 % intake tolerating with total tray set up.\nMalnutrition or BMI \u003c18.5.” (…) Ref prev MRN AAAAAAAAA for\n",
+    "pidcount": 2,
+    "mrncount": 2
+}

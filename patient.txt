@@ -1,0 +1,15 @@
+Test Patient2
+MRN:   100862487
+PatientID:  100955619
+
+Query for  severe PVM   E43
+POA   yes
+Secondary yes
+Change DRG   from  699  to 698
+Change RW   from   1.0327  to 1.6186
+
+MRN: 100862487; DOS: 11/1 to 11/20
+88 yo M, with Hx of CHF, HLD, HTN, AFib, COPD, BPH, hypothyroidism and abdominal pain; dehydration; CT A/P noted: colitis, on ceftriaxone and flagyl for stercoral colitis. PN 3/24 and 3/25 on Physical exam shows cachexia. Nutritionist consult and follow up confirm patient 100955619 unintentional weight loss (see below)
+(…) “Unintentional weight loss: yes; ~50lbs over the last few months (since his hip fracture/ hospitalization); Pt reports UBW ~185lbs.
+very poor (less than 25%); 25 % intake tolerating with total tray set up.
+Malnutrition or BMI <18.5.” (…) Ref prev MRN 100862443 for 
