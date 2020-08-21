@@ -5,3 +5,7 @@ There are so many Regex use in this file.  I believe regex is the best tool to p
 This is golang app and has good performance.  There is only one data sample file to build this app.
 I will use gorouting if there are many data files.  It will show more performance than single thread one.
 Also I put unittest file with source.  
+
+# Added 8/21/2020
+This is for interview sample but I need to use this as a gitlab sample.
+Then added .giblab_ci.yml then pushed because this repository will be pulled from gitlab.com.
