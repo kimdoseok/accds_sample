@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"io/ioutil"
+	"log"
 	"testing"
 )
 
@@ -13,9 +14,12 @@ func TestProcess(t *testing.T) {
 
 	err = json.Unmarshal(jbytes, &p)
 	//t.Log(p)
+
+	log.Println(err)
 	if err != nil {
 		t.Error("There is an error on unmarshalling.")
 	}
+
 	if p.PatientId != "AAAAAAAAA" {
 		t.Error("Patient ID was not tokenized.")
 	}
